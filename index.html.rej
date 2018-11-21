@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -2,6 +2,7 @@
+ <html>
+ 
+ <head>
++     <title>Kane's HTML Application</title>
+ 	 <link href="css/site.css" rel="stylesheet">
+ </head>
+ 
